@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119953377064",
+    "firebase_url": "https://flutter-iot-suhu-default-rtdb.firebaseio.com",
+    "project_id": "flutter-iot-suhu",
+    "storage_bucket": "flutter-iot-suhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119953377064:android:bbe126984ca6ebd4f2f21d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_iot_suhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119953377064-9ciujoubsgl3lbqk7uo4ffl2011b0pnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWEHOMeQjsZVPQW6fZ3gTQGeyCftT9hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119953377064-9ciujoubsgl3lbqk7uo4ffl2011b0pnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
